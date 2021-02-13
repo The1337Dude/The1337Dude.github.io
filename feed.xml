@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>I Hope I Can Make It</description>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Feb 2021 13:21:48 +0530</pubDate>
+    <lastBuildDate>Sat, 13 Feb 2021 13:21:48 +0530</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Sample Post</title>
+        <description>&lt;p&gt;Thanks Jekyll&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Feb 2020 15:48:00 +0530</pubDate>
+        <link>//sample/2020/02/13/SamplePost.html</link>
+        <guid isPermaLink="true">//sample/2020/02/13/SamplePost.html</guid>
+        
+        
+        <category>Sample</category>
+        
+      </item>
+    
+  </channel>
+</rss>
